@@ -1,0 +1,22 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Data and Reports (Local only)
+app/reports/*.png
+*.csv
+*.xlsx
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker (if you have local build logs)
+.dockerignore

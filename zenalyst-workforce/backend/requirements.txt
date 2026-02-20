@@ -1,0 +1,11 @@
+google-genai
+streamlit
+pandas
+python-dotenv
+matplotlib
+seaborn
+fastapi
+uvicorn
+python-multipart
+tabulate
+groq
